@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ileana-b4&label=Profile%20views&color=0e75b6&style=flat" alt="ileana-b4" /> </p>
 
-- 🔭 I’m currently working on [En un examen de preguntas de biología para olimpiada](https://github.com/Ileana-B4/Preguntas-Bioquimica)
+- 🔭 I’m currently working on [Biology Olympiad-type exam](https://github.com/Ileana-B4/Preguntas-Bioquimica)
 
 - 🌱 I’m currently learning **C++, JS, Python y C**
 
