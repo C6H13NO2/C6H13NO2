@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Biology Olympiad-type exam](https://github.com/Ileana-B4/Preguntas-Bioquimica)
 
-- 🌱 I’m currently learning **C++, JS, Python y C**
+- 🌱 I’m currently learning **C++, JS, Python, C and React **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
